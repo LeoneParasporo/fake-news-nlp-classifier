@@ -2,11 +2,6 @@
 
 End-to-end Natural Language Processing project for detecting fake news with TF-IDF features, interpretable analysis, and a reproducible scikit-learn pipeline.
 
-## Repository Metadata
-
-- Repository name: `fake-news-nlp-classifier`
-- Description: `End-to-end NLP notebook for fake news detection using TF-IDF features, interpretable exploratory analysis, and a reproducible scikit-learn classification pipeline.`
-
 ## Project Overview
 
 This repository contains a publication-ready notebook that explores a labeled fake news dataset and trains a baseline NLP classifier. The workflow covers data loading, exploratory analysis, model training, evaluation, feature interpretation, topic snapshots, and model export.
@@ -30,7 +25,6 @@ The notebook downloads the archive automatically when the CSV files are not alre
 .
 |-- fake_news_detection_nlp.ipynb
 |-- README.md
-|-- REPO_METADATA.md
 |-- requirements.txt
 |-- .gitignore
 |-- data/          # created locally, ignored by Git
